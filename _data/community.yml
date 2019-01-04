@@ -2,8 +2,22 @@
 # img/conf-name/community/file.jpg
 # description is actually the company the speaker is working for
 list:
+  -
+    name: Vue.js Bulgaria
+    image: vuejs-bulgaria.svg
+    site: https://vuebulgaria.com/
 
-#  -
-#    name: React Vienna
-#    image: react-vienna.svg
-#    site: "https://www.meetup.com/ReactVienna/"
+  -
+    name: Vue.js Dublin
+    image: vuejs-dublin.svg
+    site: http://www.vuejsdublin.com/
+
+  -
+    name: Vue.js Manchester
+    image: vuejs-manchester.svg
+    site: https://www.meetup.com/VueJS-Manchester/
+
+  -
+    name: Vue.js Vienna
+    image: vuejs-vienna.svg
+    site: https://www.vuejs-vienna.org/#/
