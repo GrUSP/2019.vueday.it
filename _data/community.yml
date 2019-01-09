@@ -13,6 +13,11 @@ list:
     site: http://www.vuejsdublin.com/
 
   -
+    name: Vue.js Madrid
+    image: vuejs-madrid.svg
+    site: https://www.meetup.com/VueJS-Madrid/
+
+  -
     name: Vue.js Manchester
     image: vuejs-manchester.svg
     site: https://www.meetup.com/VueJS-Manchester/
