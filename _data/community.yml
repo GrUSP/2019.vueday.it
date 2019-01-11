@@ -23,6 +23,11 @@ list:
     site: https://www.meetup.com/VueJS-Manchester/
 
   -
+    name: Vue.js Oslo
+    image: vuejs-oslo.svg
+    site: https://www.meetup.com/VueJS-Oslo/
+
+  -
     name: Vue.js Vienna
     image: vuejs-vienna.svg
     site: https://www.vuejs-vienna.org/#/
