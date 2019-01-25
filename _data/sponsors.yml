@@ -50,6 +50,12 @@ platinum:
     - 5 tickets with 15% discount
   max: 4
   list:
+    -
+      url: https://nebulab.it/
+      image: nebulab.svg
+    -
+      url: https://dev.welaika.com/
+      image: welaika.svg
 
 gold:
   price: € 1,500
