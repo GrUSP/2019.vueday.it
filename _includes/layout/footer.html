@@ -32,6 +32,11 @@
                   <a href="{{ site.baseurl }}/schedule.html" class="button button--footer button--left">Schedule</a>
                 </div>
               {% endif %}
+              {% if site.data.conference.workshop_available %}
+                <div class="footer__nav-item">
+                  <a href="{{ site.baseurl }}/workshop.html" class="button button--footer button--left">Workshop</a>
+                </div>
+              {% endif %}
               <div class="footer__nav-item">
                 {% if site.data.tickets.sold_out %}
                   <div class="button button--left button--footer button--sold-out">
