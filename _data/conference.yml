@@ -8,10 +8,9 @@ year: 2019
 since:
 call_for_paper_url: https://goo.gl/forms/FxgybMbIu4F3dSJ72
 call_for_paper: true
-workshop_available: true
+training_available: true
 talks_available: false
 schedule_available: false
-training_available: false
 
 iubenda:
   cookiePolicyId: 49761585
