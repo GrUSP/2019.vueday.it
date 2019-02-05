@@ -20,8 +20,8 @@
         </a>
 
         <div class="header__menu-desktop">
-          {% if site.data.conference.workshop_available %}
-            <a href="{{ site.baseurl }}/workshop.html" class="button">
+          {% if site.data.conference.training_available %}
+            <a href="{{ site.baseurl }}/training.html" class="button">
               Workshop
             </a>
           {% endif %}
@@ -33,11 +33,6 @@
           {% if site.data.conference.talks_available %}
             <a href="{{ site.baseurl }}/talks.html" class="button">
               Talks
-            </a>
-          {% endif %}
-          {% if site.data.conference.training_available %}
-            <a href="{{ site.baseurl }}/training.html" class="button">
-              Training
             </a>
           {% endif %}
           {% if site.data.conference.schedule_available %}
