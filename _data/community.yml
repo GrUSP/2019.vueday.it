@@ -28,6 +28,11 @@ list:
     site: https://www.meetup.com/VueJS-Manchester/
 
   -
+    name: Vue.js Milano
+    image: vuejs-milano.svg
+    site: https://www.meetup.com/it-IT/VueJS-Milano/
+
+  -
     name: Vue.js Oslo
     image: vuejs-oslo.svg
     site: https://www.meetup.com/VueJS-Oslo/
