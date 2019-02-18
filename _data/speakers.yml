@@ -10,6 +10,13 @@ list:
     last_name: Lichter
     twitter: TheAlexLichter
   -
+    id: darek-wedrychowski
+    description:
+    image: darek-wedrychowski.jpg
+    first_name: Darek 'Gusto'
+    last_name: Wedrychowski
+    twitter: gustojs
+  -
     id: debbie-obrien
     description:
     image: debbie-obrien.jpg
