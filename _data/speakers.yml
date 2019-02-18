@@ -2,11 +2,38 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
-
-#  -
-#    id:
-#    description:
-#    image:
-#    first_name:
-#    last_name:
-#    twitter:
+  -
+    id: alexander-lichter
+    description:
+    image: alexander-lichter.jpg
+    first_name: Alexander
+    last_name: Lichter
+    twitter: TheAlexLichter
+  -
+    id: debbie-obrien
+    description:
+    image: debbie-obrien.jpg
+    first_name: Debbie
+    last_name: O'Brien
+    twitter: debs_obrien
+  -
+    id: majid-hajian
+    description:
+    image: majid-hajian.jpg
+    first_name: Majid
+    last_name: Hajian
+    twitter: mhadaily
+  -
+    id: nicolo-mezzopera
+    description:
+    image: nicolo-mezzopera.jpg
+    first_name: Nicolò
+    last_name: Mezzopera
+    twitter: lordfuoco
+  -
+    id: tim-benniks
+    description:
+    image: tim-benniks.jpg
+    first_name: Tim
+    last_name: Benniks
+    twitter: timbenniks
