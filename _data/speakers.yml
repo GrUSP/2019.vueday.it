@@ -24,6 +24,13 @@ list:
     last_name: O'Brien
     twitter: debs_obrien
   -
+    id: geisy-domiciano
+    description:
+    image: geisy-domiciano.jpg
+    first_name: Geisy
+    last_name: Domiciano
+    twitter: geisydomiciano
+  -
     id: majid-hajian
     description:
     image: majid-hajian.jpg
