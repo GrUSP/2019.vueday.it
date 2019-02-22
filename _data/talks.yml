@@ -1,5 +1,71 @@
-#-
-#  speaker_id:
-#  title:
-#  keynote:
-#  extract: >
+-
+  speaker_id: alexander-lichter
+  title: Nuxt.js - Why? How? Oh yeah!
+  keynote: false
+  extract: >
+    Nuxt.js - You probably have heard the name of the Vue.js framework at least once.
+    Maybe when a fellow colleague gave it a try, or when you saw it on the GitHub report as 4th fastest growing open
+    source project in 2018.
+    But as a smart developer, you're skeptical: Why would I need another framework that even sits on top
+    of *another* one? What is this SSR everyone is talking about? What problems would Nuxt solve for me and how to
+    get started?
+    During my talk, all these questions (and many more) will be answered.
+    Join an introduction to Nuxt.js and experience it with no previous knowledge needed besides Vue.
+-
+  speaker_id: darek-wedrychowski
+  title: Vuenited we stand
+  keynote: false
+  extract: >
+    2019 may be the year of the biggest updates around all the Vue.js stack - not only core Vue libraries but the
+    transition of the whole ecosystem and community in general. What direction will the wind of change blow? Let's
+    discuss how we're going to use Vue.js from now on and showcase both the most awaited and those less known
+    innovations.
+-
+  speaker_id: debbie-obrien
+  title: Getting started with nuxt.js + static sites
+  keynote: false
+  extract: >
+    Did you know nuxt.js can pre render all your pages so you can easily create static sites using the Vue.js framework.
+    That means you have a Single Page Application without the need of a server and with great SEO and that's just a few
+    of the benefits of using nuxt.js. In this talk I will take you through how I setup nuxt with all the extras I
+    normally add to create a great boilerplate project configured to my liking. I will also show you how easy it is to
+    generate static pages, create pre commit hooks and deploy.
+-
+  speaker_id: geisy-domiciano
+  title: Vuex Modules in practice
+  keynote: false
+  extract: >
+    When building complex applications the management of the single state tree can be very tricky and difficult to
+    maintain.
+    The use of Vuex Modules will help you to keep your code concise and have a clear separation of the application's
+    state facilitating the maintainability and organisation of the code.
+-
+  speaker_id: majid-hajian
+  title: A taste of hardware connectivity on the web with Vue
+  keynote: false
+  extract: >
+    The browsers can actually take control of physical devices in the real world like lightbulbs, robots and even drones
+    by providing new web standard hardware connectivity APIs such as WebBluetooth, WebUSB, NFC and etc.
+    On the other hand, Progressive web apps opens a new era to build a web application that works offline and resemble a
+    native application. Hence, everyday we are getting closer to run a web app only on browsers that doesn't need to be
+    install from any app store and it will take control of hardwares around us.
+    In this session, I am going through some of the web capabilities to connect devices into a progressive web app which
+    has been build but Vue.js and show how web could go beyond the browsers and take control of our devices around us.
+-
+  speaker_id: nicolo-mezzopera
+  title: Refactor legacy code, Vue that was easy!
+  keynote: false
+  extract: >
+    Strategies, tips and examples on how to convert legacy codebase to Vue.js and being able to preserve the old working
+    code in some areas of your website.
+    Coexistence between legacy code and Vue.js code can be achieved in a stable and reliable way opening up a path to a
+    gradual rewrite.
+-
+  speaker_id: tim-benniks
+  title: Vue at Scale for L'Oréal
+  keynote: false
+  extract: >
+    Talk about the biggest Vue implementation in production globally. The L'Oréal website factory program is a new
+    organization of L’Oréal's digital landscape. Vue is a key component for over 800 L'Oréal websites for global market
+    leaders like Kerastase, Garnier and L'Oréal Paris. In this talk I show how we use Vue at scale and how we can
+    maintain a reusable codebase for all websites.
