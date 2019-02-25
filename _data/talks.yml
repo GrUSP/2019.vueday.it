@@ -52,6 +52,14 @@
     In this session, I am going through some of the web capabilities to connect devices into a progressive web app which
     has been build but Vue.js and show how web could go beyond the browsers and take control of our devices around us.
 -
+  speaker_id: maya-shavin
+  title: Vue your Media with Accessibility (m16y)
+  keynote: false
+  extract: >
+    How do you, as developers, handle medias to offer good UX to visual impairments at minimal extra code and complexity?
+    That’s what my talk about. It will focus on a CSS/JS-less developing approach to achieve full accessibility support
+    with real time media manipulation, and keep the process fun.
+-
   speaker_id: nicolo-mezzopera
   title: Refactor legacy code, Vue that was easy!
   keynote: false

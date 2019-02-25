@@ -38,6 +38,13 @@ list:
     last_name: Hajian
     twitter: mhadaily
   -
+    id: maya-shavin
+    description:
+    image: maya-shavin.jpg
+    first_name: Maya
+    last_name: Shavin
+    twitter: MayaShavin
+  -
     id: nicolo-mezzopera
     description:
     image: nicolo-mezzopera.jpg
