@@ -13,7 +13,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.main.max - site.data.sponsors.main.list.size }} slot available
+          {{ site.data.sponsors.main.max | minus: site.data.sponsors.main.list.size }} slot available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.main.offer %}
@@ -39,7 +39,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.diamond.max - site.data.sponsors.diamond.list.size }} slots available
+          {{ site.data.sponsors.diamond.max | minus: site.data.sponsors.diamond.list.size }} slots available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.diamond.offer %}
@@ -65,7 +65,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.platinum.max - site.data.sponsors.platinum.list.size }} slots available
+          {{ site.data.sponsors.platinum.max | minus: site.data.sponsors.platinum.list.size }} slots available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.platinum.offer %}
@@ -91,7 +91,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.gold.max - site.data.sponsors.gold.list.size }} slots available
+          {{ site.data.sponsors.gold.max | minus: site.data.sponsors.gold.list.size }} slots available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.gold.offer %}
@@ -117,7 +117,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.silver.max - site.data.sponsors.silver.list.size }} slots available
+          {{ site.data.sponsors.silver.max | minus: site.data.sponsors.silver.list.size }} slots available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.silver.offer %}
@@ -143,7 +143,7 @@
           (+ VAT 22%)
         </div>
         <div class="sponsor-option__slots-remaining">
-          {{ site.data.sponsors.bronze.max - site.data.sponsors.bronze.list.size }} slots available
+          {{ site.data.sponsors.bronze.max | minus: site.data.sponsors.bronze.list.size }} slots available
         </div>
         <ul class="sponsor-option__list">
           {% for offer in site.data.sponsors.bronze.offer %}
