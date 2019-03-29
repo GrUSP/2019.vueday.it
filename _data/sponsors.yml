@@ -87,6 +87,9 @@ silver:
     - 3 tickets with 10% discount
   max: 16
   list:
+    -
+      url: https://www.thux.it/it/
+      image: thux.svg
 
 bronze:
   price: € 500
